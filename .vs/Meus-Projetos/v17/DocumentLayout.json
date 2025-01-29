@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leonardobispo\\OneDrive - sga.pucminas.br\\Meus-Projetos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\leonardobispo\\OneDrive - sga.pucminas.br\\Meus-Projetos\\Digrama\\Jogo da Velha - Jodo-da-velha.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Digrama\\Jogo da Velha - Jodo-da-velha.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Jogo da Velha - Jodo-da-velha.png",
+              "DocumentMoniker": "C:\\Users\\leonardobispo\\OneDrive - sga.pucminas.br\\Meus-Projetos\\Digrama\\Jogo da Velha - Jodo-da-velha.png",
+              "RelativeDocumentMoniker": "Digrama\\Jogo da Velha - Jodo-da-velha.png",
+              "ToolTip": "C:\\Users\\leonardobispo\\OneDrive - sga.pucminas.br\\Meus-Projetos\\Digrama\\Jogo da Velha - Jodo-da-velha.png",
+              "RelativeToolTip": "Digrama\\Jogo da Velha - Jodo-da-velha.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-01-29T13:40:12.043Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
