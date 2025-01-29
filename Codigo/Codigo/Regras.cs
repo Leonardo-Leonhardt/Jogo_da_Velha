@@ -1,12 +1,17 @@
-﻿using System.Text;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace Codigo
 {
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
-			string caminhoArquivo = "../../Regras/Regras.txt";
+	internal class Regras
+	{
+
+		public override string ToString()
+		{
+			string caminhoArquivo = "../../../Regras/Regras.txt";
 
 			StringBuilder conteudoDoArquivo = new StringBuilder();
 
@@ -30,8 +35,7 @@ namespace Codigo
 				Console.WriteLine(ex.ToString());
 			}
 
-			Console.WriteLine(conteudoDoArquivo.ToString());
-			Console.ReadKey();
+			return conteudoDoArquivo.ToString();
 		}
-    }
+	}
 }

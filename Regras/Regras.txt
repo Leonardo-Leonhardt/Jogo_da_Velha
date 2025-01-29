@@ -1,0 +1,49 @@
+Objetivo do Jogo:
+
+	O objetivo é alinhar três símbolos iguais (X ou O) em uma linha, coluna ou diagonal.
+
+
+Configuração do Jogo:
+
+	O jogo é jogado em um tabuleiro de 3x3.
+	Dois jogadores participam: um joga com X e o outro com O.
+
+
+Início do Jogo:
+
+	O jogador que escolhe X começa a partida.
+	Os jogadores se alternam para fazer suas jogadas.
+
+
+Realização de Jogadas:
+
+	Cada jogador escolhe uma célula vazia no tabuleiro e coloca seu símbolo (X ou O).
+	A jogada é validada para garantir que a célula escolhida está vazia.
+
+
+Condições de Vitória:
+
+	Um jogador vence se conseguir alinhar três de seus símbolos em uma linha, coluna ou diagonal.
+	A vitória é verificada após cada jogada.
+
+
+Empate:
+
+	O jogo termina em empate se todas as células do tabuleiro estiverem preenchidas e nenhum jogador tiver alinhado três símbolos.
+
+
+Dificuldade:
+
+	O jogo pode ter diferentes níveis de dificuldade (Very Easy, Easy, Hard), que afetam a estratégia da máquina ao jogar contra um humano.
+
+
+Funções do Programa:
+
+	Menu: Exibe as opções do jogo.
+	Escolher Jogador: Permite selecionar o jogador (X ou O).
+	Escolher Dificuldade: Define o nível de dificuldade do jogo.
+	Gerar Jogada: Gera a jogada da máquina com base na dificuldade escolhida.
+	Validar Jogada: Verifica se a jogada é válida.
+	Verificar Vitória: Verifica se há um vencedor após cada jogada.
+	Verificar Empate: Verifica se o jogo terminou em empate.
+	Imprimir Tabuleiro: Exibe o estado atual do tabuleiro.
