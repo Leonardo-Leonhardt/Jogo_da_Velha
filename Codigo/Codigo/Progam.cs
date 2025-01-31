@@ -1,9 +1,6 @@
-﻿using System.ComponentModel.Design;
-using System.Text;
-
-namespace Codigo
+﻿namespace Codigo
 {
-    internal class Program
+    internal class Progam
     {
         #region Variáveis globais
         static Regras regras = new Regras();
@@ -65,6 +62,25 @@ namespace Codigo
         static void Jogar()
         {
             Console.Clear();
+
+            Tabuleiro tabuleiro = new Tabuleiro();
+
+            tabuleiro.LancaJogado('1', 'O');
+            tabuleiro.LancaJogado('2', 'X');
+            tabuleiro.LancaJogado('3', 'O');
+            tabuleiro.LancaJogado('4', 'X');
+            tabuleiro.LancaJogado('5', 'O');
+            tabuleiro.LancaJogado('6', 'X');
+            tabuleiro.LancaJogado('7', 'O');
+            tabuleiro.LancaJogado('8', 'X');
+            tabuleiro.LancaJogado('9', 'O');
+
+
+
+
+
+            tabuleiro.ImprimirTabuleiro();
+
             Console.WriteLine("\nJogando...");
             Console.WriteLine($"Pressione qualquer tecla para continuar...");
             Console.ReadKey();
