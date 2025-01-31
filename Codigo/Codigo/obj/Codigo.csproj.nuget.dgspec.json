@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leonardobispo\\OneDrive - sga.pucminas.br\\Meus-Projetos\\Codigo\\Codigo\\Codigo.csproj": {}
+    "C:\\Users\\leonardobispo\\OneDrive - sga.pucminas.br\\Meus-Projetos\\Jogo_da_Velha\\Codigo\\Codigo\\Codigo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leonardobispo\\OneDrive - sga.pucminas.br\\Meus-Projetos\\Codigo\\Codigo\\Codigo.csproj": {
+    "C:\\Users\\leonardobispo\\OneDrive - sga.pucminas.br\\Meus-Projetos\\Jogo_da_Velha\\Codigo\\Codigo\\Codigo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leonardobispo\\OneDrive - sga.pucminas.br\\Meus-Projetos\\Codigo\\Codigo\\Codigo.csproj",
+        "projectUniqueName": "C:\\Users\\leonardobispo\\OneDrive - sga.pucminas.br\\Meus-Projetos\\Jogo_da_Velha\\Codigo\\Codigo\\Codigo.csproj",
         "projectName": "Codigo",
-        "projectPath": "C:\\Users\\leonardobispo\\OneDrive - sga.pucminas.br\\Meus-Projetos\\Codigo\\Codigo\\Codigo.csproj",
+        "projectPath": "C:\\Users\\leonardobispo\\OneDrive - sga.pucminas.br\\Meus-Projetos\\Jogo_da_Velha\\Codigo\\Codigo\\Codigo.csproj",
         "packagesPath": "C:\\Users\\leonardobispo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leonardobispo\\OneDrive - sga.pucminas.br\\Meus-Projetos\\Codigo\\Codigo\\obj\\",
+        "outputPath": "C:\\Users\\leonardobispo\\OneDrive - sga.pucminas.br\\Meus-Projetos\\Jogo_da_Velha\\Codigo\\Codigo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
