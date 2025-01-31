@@ -6,36 +6,51 @@ using System.Threading.Tasks;
 
 namespace Codigo
 {
-	internal class Regras
-	{
+    internal class Regras
+    {
+        #region Leitura de arquivo
 
-		public override string ToString()
-		{
-			string caminhoArquivo = "../../../Regras/Regras.txt";
+        /// <summary>
+        /// Metodo para ler o arquivo de regras.
+        /// </summary>
+        /// <returns>Retorna uma string com as regras.</returns>
+        public string LerArquivo()
+        {
+            string diretorioAtual = AppDomain.CurrentDomain.BaseDirectory;
 
-			StringBuilder conteudoDoArquivo = new StringBuilder();
+            string caminhoProjeto = Path.GetFullPath(Path.Combine(diretorioAtual, "..", "..", "..", "..", ".."));
 
-			try
-			{
-				using (StreamReader sr = new StreamReader(caminhoArquivo))
-				{
+            string caminhoArquivo = Path.Combine(caminhoProjeto, "Regras", "Regras.txt");
 
-					string linha;
+            StringBuilder conteudoDoArquivo = new StringBuilder();
+            try
+            {
+                using (StreamReader sr = new StreamReader(caminhoArquivo))
+                {
+                    string? linha;
+                    while ((linha = sr.ReadLine()) != null)
+                    {
+                        conteudoDoArquivo.AppendLine(linha);
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Ocorreu um erro ao ler o arquivo:");
+                Console.WriteLine(ex.ToString());
+            }
+            return conteudoDoArquivo.ToString();
+        }
+        #endregion
 
-					while ((linha = sr.ReadLine()) != null)
-					{
-						conteudoDoArquivo.AppendLine(linha);
-					}
-				}
-			}
-			catch (Exception ex)
-			{
 
-				Console.WriteLine("Ocorreu um erro ao ler o arquivo:");
-				Console.WriteLine(ex.ToString());
-			}
-
-			return conteudoDoArquivo.ToString();
-		}
-	}
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <returns></returns>
+        public override string ToString()
+        {
+            return base.ToString();
+        }
+    }
 }

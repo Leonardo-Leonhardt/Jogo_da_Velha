@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Codigos",
-    "\\Codigos\\Jogo-da-velha"
+    "\\Codigo",
+    "\\Codigo\\Codigo",
+    "\\Codigo\\Codigo\\bin\\Debug",
+    "\\Regras"
   ],
+  "SelectedNode": "\\Codigo\\Codigo\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
