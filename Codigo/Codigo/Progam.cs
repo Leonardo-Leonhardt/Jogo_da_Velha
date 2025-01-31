@@ -1,6 +1,6 @@
 ﻿namespace Codigo
 {
-    internal class Program
+    internal class Progam
     {
         #region Variáveis globais
         static Regras regras = new Regras();
