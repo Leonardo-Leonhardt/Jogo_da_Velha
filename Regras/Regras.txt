@@ -1,49 +1,42 @@
 Objetivo do Jogo:
 
-	O objetivo é alinhar três símbolos iguais (X ou O) em uma linha, coluna ou diagonal.
+	O objetivo Ã© alinhar trÃªs sÃ­mbolos iguais (X ou O) em uma linha, coluna ou diagonal.
 
+ConfiguraÃ§Ã£o do Jogo:
 
-Configuração do Jogo:
-
-	O jogo é jogado em um tabuleiro de 3x3.
+	O jogo Ã© jogado em um tabuleiro de 3x3.
 	Dois jogadores participam: um joga com X e o outro com O.
 
+InÃ­cio do Jogo:
 
-Início do Jogo:
-
-	O jogador que escolhe X começa a partida.
+	O jogador que escolhe X comeÃ§a a partida.
 	Os jogadores se alternam para fazer suas jogadas.
 
+RealizaÃ§Ã£o de Jogadas:
 
-Realização de Jogadas:
+	Cada jogador escolhe uma cÃ©lula vazia no tabuleiro e coloca seu sÃ­mbolo (X ou O).
+	A jogada Ã© validada para garantir que a cÃ©lula escolhida estÃ¡ vazia.
 
-	Cada jogador escolhe uma célula vazia no tabuleiro e coloca seu símbolo (X ou O).
-	A jogada é validada para garantir que a célula escolhida está vazia.
+CondiÃ§Ãµes de VitÃ³ria:
 
-
-Condições de Vitória:
-
-	Um jogador vence se conseguir alinhar três de seus símbolos em uma linha, coluna ou diagonal.
-	A vitória é verificada após cada jogada.
-
+	Um jogador vence se conseguir alinhar trÃªs de seus sÃ­mbolos em uma linha, coluna ou diagonal.
+	A vitÃ³ria Ã© verificada apÃ³s cada jogada.
 
 Empate:
 
-	O jogo termina em empate se todas as células do tabuleiro estiverem preenchidas e nenhum jogador tiver alinhado três símbolos.
-
+	O jogo termina em empate se todas as cÃ©lulas do tabuleiro estiverem preenchidas e nenhum jogador tiver alinhado trÃªs sÃ­mbolos.
 
 Dificuldade:
 
-	O jogo pode ter diferentes níveis de dificuldade (Very Easy, Easy, Hard), que afetam a estratégia da máquina ao jogar contra um humano.
+	O jogo pode ter diferentes nÃ­veis de dificuldade (Very Easy, Easy, Hard), que afetam a estratÃ©gia da mÃ¡quina ao jogar contra um humano.
 
+FunÃ§Ãµes do Programa:
 
-Funções do Programa:
-
-	Menu: Exibe as opções do jogo.
+	Menu: Exibe as opÃ§Ãµes do jogo.
 	Escolher Jogador: Permite selecionar o jogador (X ou O).
-	Escolher Dificuldade: Define o nível de dificuldade do jogo.
-	Gerar Jogada: Gera a jogada da máquina com base na dificuldade escolhida.
-	Validar Jogada: Verifica se a jogada é válida.
-	Verificar Vitória: Verifica se há um vencedor após cada jogada.
+	Escolher Dificuldade: Define o nÃ­vel de dificuldade do jogo.
+	Gerar Jogada: Gera a jogada da mÃ¡quina com base na dificuldade escolhida.
+	Validar Jogada: Verifica se a jogada Ã© vÃ¡lida.
+	Verificar VitÃ³ria: Verifica se hÃ¡ um vencedor apÃ³s cada jogada.
 	Verificar Empate: Verifica se o jogo terminou em empate.
 	Imprimir Tabuleiro: Exibe o estado atual do tabuleiro.
