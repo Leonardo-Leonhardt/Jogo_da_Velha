@@ -9,7 +9,7 @@ namespace Codigo
     internal class Tabuleiro
     {
         #region Variáveis
-        static char[] tabuleiro = { '1', '2', '3' , '4', '5', '6' , '7', '8', '9' };
+        static char[] tabuleiro = { '1', '2', '3', '4', '5', '6', '7', '8', '9' };
         #endregion
 
         #region Metodos 
@@ -39,9 +39,12 @@ namespace Codigo
         /// <returns></returns>
         public bool Validarjogada(char jogada)
         {
-            if (tabuleiro[jogada] != 'X' || tabuleiro[jogada] != 'O')
+            for (int i = 0; i < tabuleiro.Length; i++)
             {
-                return true;
+                if (tabuleiro[jogada] != 'X' || tabuleiro[jogada] != 'O')
+                {
+                    return true;
+                }
             }
 
             return false;
