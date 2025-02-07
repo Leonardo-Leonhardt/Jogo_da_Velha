@@ -25,6 +25,7 @@
                 Console.WriteLine("=========================");
                 Console.Write("Escolha uma opção: ");
                 opcao = int.Parse(Console.ReadLine());
+
                 switch (opcao)
                 {
                     case 1:
