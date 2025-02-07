@@ -66,6 +66,7 @@
 
             Tabuleiro tabuleiro = new Tabuleiro();
 
+            tabuleiro.LancaJogado('0', 'X');
             tabuleiro.LancaJogado('1', 'O');
             tabuleiro.LancaJogado('2', 'X');
             tabuleiro.LancaJogado('3', 'O');
@@ -74,7 +75,6 @@
             tabuleiro.LancaJogado('6', 'X');
             tabuleiro.LancaJogado('7', 'O');
             tabuleiro.LancaJogado('8', 'X');
-            tabuleiro.LancaJogado('9', 'O');
 
 
 
