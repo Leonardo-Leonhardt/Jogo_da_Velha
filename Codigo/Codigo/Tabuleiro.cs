@@ -9,7 +9,11 @@ namespace Codigo
     internal class Tabuleiro
     {
         #region Variáveis
-        static char[] tabuleiro = { '1', '2', '3', '4', '5', '6', '7', '8', '9' };
+        static char[] tabuleiro = {
+            '0', '1', '2',
+            '3', '4', '5',
+            '6', '7', '8' 
+        };
         #endregion
 
         #region Metodos 
@@ -20,11 +24,13 @@ namespace Codigo
         /// <param name="simbulo"></param>
         public void LancaJogado(char jogada, char simbulo)
         {
-            var validacao = Validarjogada(jogada);
+            int index = jogada - '0';
+
+            var validacao = Validarjogada(index);
 
             if (validacao)
             {
-                tabuleiro[jogada] = simbulo;
+                tabuleiro[index] = simbulo;
             }
             else
             {
@@ -37,7 +43,7 @@ namespace Codigo
         /// </summary>
         /// <param name="jogada"></param>
         /// <returns></returns>
-        public bool Validarjogada(char jogada)
+        public bool Validarjogada(int jogada)
         {
             for (int i = 0; i < tabuleiro.Length; i++)
             {
