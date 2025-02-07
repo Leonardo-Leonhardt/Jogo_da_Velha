@@ -3,16 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\leonardobispo\\OneDrive - sga.pucminas.br\\Meus-Projetos\\Jogo_da_Velha\\Codigo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1D879547-0629-49E0-8D68-CF851027DCCF}|Codigo\\Codigo.csproj|c:\\users\\leonardobispo\\onedrive - sga.pucminas.br\\meus-projetos\\jogo_da_velha\\codigo\\codigo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D879547-0629-49E0-8D68-CF851027DCCF}|Codigo\\Codigo.csproj|solutionrelative:codigo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D879547-0629-49E0-8D68-CF851027DCCF}|Codigo\\Codigo.csproj|c:\\users\\leonardobispo\\onedrive - sga.pucminas.br\\meus-projetos\\jogo_da_velha\\codigo\\codigo\\progam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D879547-0629-49E0-8D68-CF851027DCCF}|Codigo\\Codigo.csproj|solutionrelative:codigo\\progam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1D879547-0629-49E0-8D68-CF851027DCCF}|Codigo\\Codigo.csproj|c:\\users\\leonardobispo\\onedrive - sga.pucminas.br\\meus-projetos\\jogo_da_velha\\codigo\\codigo\\tabuleiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D879547-0629-49E0-8D68-CF851027DCCF}|Codigo\\Codigo.csproj|solutionrelative:codigo\\tabuleiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D879547-0629-49E0-8D68-CF851027DCCF}|Codigo\\Codigo.csproj|c:\\users\\leonardobispo\\onedrive - sga.pucminas.br\\meus-projetos\\jogo_da_velha\\codigo\\codigo\\regras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D879547-0629-49E0-8D68-CF851027DCCF}|Codigo\\Codigo.csproj|solutionrelative:codigo\\regras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D879547-0629-49E0-8D68-CF851027DCCF}|Codigo\\Codigo.csproj|c:\\users\\leonardobispo\\onedrive - sga.pucminas.br\\meus-projetos\\jogo_da_velha\\codigo\\codigo\\verificarresutadodojogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D879547-0629-49E0-8D68-CF851027DCCF}|Codigo\\Codigo.csproj|solutionrelative:codigo\\verificarresutadodojogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D879547-0629-49E0-8D68-CF851027DCCF}|Codigo\\Codigo.csproj|c:\\users\\leonardobispo\\onedrive - sga.pucminas.br\\meus-projetos\\jogo_da_velha\\codigo\\codigo\\jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D879547-0629-49E0-8D68-CF851027DCCF}|Codigo\\Codigo.csproj|solutionrelative:codigo\\jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\leonardobispo\\OneDrive - sga.pucminas.br\\Meus-Projetos\\Jogo_da_Velha\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\leonardobispo\\OneDrive - sga.pucminas.br\\Meus-Projetos\\Regras\\Regras.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
@@ -25,7 +32,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -37,20 +44,71 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Progam.cs",
+              "DocumentMoniker": "C:\\Users\\leonardobispo\\OneDrive - sga.pucminas.br\\Meus-Projetos\\Jogo_da_Velha\\Codigo\\Codigo\\Progam.cs",
+              "RelativeDocumentMoniker": "Codigo\\Progam.cs",
+              "ToolTip": "C:\\Users\\leonardobispo\\OneDrive - sga.pucminas.br\\Meus-Projetos\\Jogo_da_Velha\\Codigo\\Codigo\\Progam.cs*",
+              "RelativeToolTip": "Codigo\\Progam.cs*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T12:57:31.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VerificarResutadoDoJogo.cs",
+              "DocumentMoniker": "C:\\Users\\leonardobispo\\OneDrive - sga.pucminas.br\\Meus-Projetos\\Jogo_da_Velha\\Codigo\\Codigo\\VerificarResutadoDoJogo.cs",
+              "RelativeDocumentMoniker": "Codigo\\VerificarResutadoDoJogo.cs",
+              "ToolTip": "C:\\Users\\leonardobispo\\OneDrive - sga.pucminas.br\\Meus-Projetos\\Jogo_da_Velha\\Codigo\\Codigo\\VerificarResutadoDoJogo.cs",
+              "RelativeToolTip": "Codigo\\VerificarResutadoDoJogo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T14:10:58.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Jogador.cs",
+              "DocumentMoniker": "C:\\Users\\leonardobispo\\OneDrive - sga.pucminas.br\\Meus-Projetos\\Jogo_da_Velha\\Codigo\\Codigo\\Jogador.cs",
+              "RelativeDocumentMoniker": "Codigo\\Jogador.cs",
+              "ToolTip": "C:\\Users\\leonardobispo\\OneDrive - sga.pucminas.br\\Meus-Projetos\\Jogo_da_Velha\\Codigo\\Codigo\\Jogador.cs",
+              "RelativeToolTip": "Codigo\\Jogador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T14:23:19.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\leonardobispo\\OneDrive - sga.pucminas.br\\Meus-Projetos\\Jogo_da_Velha\\README.md",
+              "RelativeDocumentMoniker": "..\\README.md",
+              "ToolTip": "C:\\Users\\leonardobispo\\OneDrive - sga.pucminas.br\\Meus-Projetos\\Jogo_da_Velha\\README.md",
+              "RelativeToolTip": "..\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-01-31T14:22:08.053Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Tabuleiro.cs",
               "DocumentMoniker": "C:\\Users\\leonardobispo\\OneDrive - sga.pucminas.br\\Meus-Projetos\\Jogo_da_Velha\\Codigo\\Codigo\\Tabuleiro.cs",
               "RelativeDocumentMoniker": "Codigo\\Tabuleiro.cs",
               "ToolTip": "C:\\Users\\leonardobispo\\OneDrive - sga.pucminas.br\\Meus-Projetos\\Jogo_da_Velha\\Codigo\\Codigo\\Tabuleiro.cs",
               "RelativeToolTip": "Codigo\\Tabuleiro.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAywCcAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwCsAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-31T11:45:21.541Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Regras.txt",
               "DocumentMoniker": "C:\\Users\\leonardobispo\\OneDrive - sga.pucminas.br\\Meus-Projetos\\Regras\\Regras.txt",
               "RelativeDocumentMoniker": "..\\..\\Regras\\Regras.txt",
@@ -59,32 +117,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2025-01-29T14:11:43.838Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Regras.cs",
-              "DocumentMoniker": "C:\\Users\\leonardobispo\\OneDrive - sga.pucminas.br\\Meus-Projetos\\Jogo_da_Velha\\Codigo\\Codigo\\Regras.cs",
-              "RelativeDocumentMoniker": "Codigo\\Regras.cs",
-              "ToolTip": "C:\\Users\\leonardobispo\\OneDrive - sga.pucminas.br\\Meus-Projetos\\Jogo_da_Velha\\Codigo\\Codigo\\Regras.cs",
-              "RelativeToolTip": "Codigo\\Regras.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T14:02:35.155Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\leonardobispo\\OneDrive - sga.pucminas.br\\Meus-Projetos\\Jogo_da_Velha\\Codigo\\Codigo\\Program.cs",
-              "RelativeDocumentMoniker": "Codigo\\Program.cs",
-              "ToolTip": "C:\\Users\\leonardobispo\\OneDrive - sga.pucminas.br\\Meus-Projetos\\Jogo_da_Velha\\Codigo\\Codigo\\Program.cs*",
-              "RelativeToolTip": "Codigo\\Program.cs*",
-              "ViewState": "AgIAADcAAAAAAAAAAAAcwEYAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T13:54:43.232Z",
-              "EditorCaption": ""
             }
           ]
         }
